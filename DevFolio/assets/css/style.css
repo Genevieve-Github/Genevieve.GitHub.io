@@ -100,7 +100,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #a0def7;
 }
 
 .overlay-mf {
@@ -691,7 +691,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #0078ff;
+  color: #bacbdf;
 }
 
 .navbar-mobile .getstarted,
@@ -951,6 +951,8 @@ a:hover {
 }
 
 .work-img {
+  width: 416px;
+  height:300px;
   display: block;
   overflow: hidden;
 }
